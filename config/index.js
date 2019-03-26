@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: 'animating-consume/dist',
     proxyTable: {},
 
     // Various Dev Server settings

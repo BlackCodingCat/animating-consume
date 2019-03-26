@@ -44,7 +44,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../public'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/animating-resume/public/',
+    assetsPublicPath: '/animating-consume/public/',
 
     /**
      * Source Maps

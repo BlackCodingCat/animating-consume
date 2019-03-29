@@ -1,7 +1,7 @@
 # css-consume
 
-> 基于vue编写的个人简历
-  #[项目预览]:(https://blackcodingcat.github.io/animating-consume/public/)
+> # 基于vue编写的个人简历
+  # [项目预览]:(https://blackcodingcat.github.io/animating-consume/public/)
 
 ## Build Setup
 

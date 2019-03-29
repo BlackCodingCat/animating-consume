@@ -1,5 +1,3 @@
-# css-consume
-
 > ### 基于vue编写的个人动画简历
   ### [项目预览](https://blackcodingcat.github.io/animating-consume/public/)
 
